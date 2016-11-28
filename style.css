@@ -1,0 +1,54 @@
+.MainSection
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-style: double;
+  margin-bottom: 10%;
+}
+
+.headers
+{
+  border-style: double;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  background-color: gray;
+}
+
+.tags
+{
+  display: flex;
+  flex-direction: row;
+}
+
+.ImageSection
+{
+  text-align: center;
+  font-weight: bold;
+}
+#Image1
+{
+  border-style: double;
+}
+
+#Image2
+{
+  border-style: double;
+}
+#Image3
+{
+  border-style: double;
+  margin-bottom: 10pt;
+}
+#LISTCSS
+{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#backgroundexample
+{
+  background-color: red;
+}
